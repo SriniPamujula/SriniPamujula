@@ -13,6 +13,7 @@
 | **[BetterAI Cost Advisor™](https://betterai.guru/cost-advisor)** | Databricks cost optimization with AI agents, system tables, and AWS CUR correlation |
 | **[AutoML Platform](https://automl.betterai.guru)** | Automated ML pipeline — upload CSV, get EDA + model training with 9+ algorithms |
 | **[Decision Engine](https://betterai.guru/decision-engine)** | AI-powered VWAP trading with real-time execution and risk management |
+| **[FlowEngine](https://github.com/SriniPamujula/FlowEngine)** | Enterprise no-code pipeline orchestration — 1.5M+ task runs, replaced SSIS at Johns Hopkins Medicine |
 
 ---
 
